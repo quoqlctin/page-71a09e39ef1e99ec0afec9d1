@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.trhcxgl.cn/sitemap.xml
